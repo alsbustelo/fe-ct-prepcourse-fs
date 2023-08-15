@@ -15,3 +15,6 @@ console.log(95 % 4);
 
 //Prueba de precedencia
 console.log(3 + 5 * 2 - 8);
+
+//Otra Prueba
+console.log(3 - 2 + 7 * 2 - 5 + 10 / 2);
